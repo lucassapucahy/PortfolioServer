@@ -5,14 +5,14 @@
       "Nome": "ESYS.VENDAS",
       "Url": "https://github.com/lucassapucahy/Esys.Vendas",
       "Descricao": "PROJETO QUE SIMULA UM MICROSERVICO DE E-COMMERCE QUE CUIDA DA PARTE DE VENDAS",
-      "Tecnologias": [".Net Core","MySQL","RabbitMQ","Docker","Kubernetes","PowerShellScript"]
+      "Tecnologias": [".Net Core", "MySQL", "RabbitMQ", "Docker", "Kubernetes", "PowerShellScript"]
     },
     {
       "Id": 2,
       "Nome": "Portfolio",
       "Url": "https://github.com/lucassapucahy/Portfolio",
       "Descricao": "Codigo deste portfolio",
-      "Tecnologias": ["Angular 14","TypeScript","Bootstrap","JsonServer"]
+      "Tecnologias": ["Angular 14", "TypeScript", "Bootstrap", "JsonServer"]
     },
     {
       "Id": 3,
@@ -27,6 +27,13 @@
       "Url": "https://github.com/lucassapucahy/GoCadastroProduto",
       "Descricao": "Primeiro CRUD usando Go",
       "Tecnologias": ["GoLang", "PowerShellScript", "Docker", "HTML", "Bootstrap"]
+    },
+    {
+      "Id": 5,
+      "Nome": "ApiRestGo",
+      "Url": "https://github.com/lucassapucahy/ApiRestGo",
+      "Descricao": "API usando golang, gorilla/mux e GORM",
+      "Tecnologias": ["GoLang", "Postgres", "Docker", "gorilla/mux", "GORM"]
     }
   ]
 }
