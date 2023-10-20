@@ -32,7 +32,7 @@
       "Id": 5,
       "Nome": "ApiRestGo",
       "Url": "https://github.com/lucassapucahy/ApiRestGo",
-      "Descricao": "API usando golang, gorilla/mux e GORM",
+      "Descricao": "API para crud de cadastro de personalidades",
       "Tecnologias": ["GoLang", "Postgres", "Docker", "gorilla/mux", "GORM"]
     }
   ]
